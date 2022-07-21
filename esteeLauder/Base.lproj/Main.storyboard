@@ -156,7 +156,7 @@
                                 <color key="highlightedColor" red="0.69803921570000005" green="0.3294117647" blue="0.1176470588" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NXB-Or-QUq">
-                                <rect key="frame" x="10" y="294" width="394" height="31"/>
+                                <rect key="frame" x="10" y="294" width="394" height="71"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.69803921570000005" green="0.3294117647" blue="0.1176470588" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
@@ -166,7 +166,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xje-cK-2jO">
-                                <rect key="frame" x="10" y="412" width="394" height="31"/>
+                                <rect key="frame" x="10" y="412" width="394" height="64"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.69803921570000005" green="0.3294117647" blue="0.1176470588" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
@@ -176,7 +176,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PMa-eJ-rGY">
-                                <rect key="frame" x="10" y="531" width="394" height="31"/>
+                                <rect key="frame" x="10" y="531" width="394" height="63"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.69803921570000005" green="0.3294117647" blue="0.1176470588" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
@@ -526,8 +526,8 @@
                                 <color key="textColor" red="0.019607843829999999" green="0.039215687659999998" blue="0.1607843041" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The vedette is the best of the best, and is sure" textAlignment="center" lineBreakMode="headTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GDo-Hu-CIl">
-                                <rect key="frame" x="20" y="351" width="369" height="23"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The vedette is the best of the best, and is sure to" textAlignment="center" lineBreakMode="headTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GDo-Hu-CIl">
+                                <rect key="frame" x="20" y="351" width="390" height="23"/>
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="19"/>
                                 <color key="textColor" red="0.019607843829999999" green="0.039215687659999998" blue="0.1607843041" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -872,7 +872,7 @@
         <segue reference="u5J-rf-r8N"/>
         <segue reference="mID-b4-eTd"/>
         <segue reference="evc-1h-J2a"/>
-        <segue reference="kK7-dG-2ah"/>
+        <segue reference="DfF-HW-sFV"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="0" width="3000" height="3000"/>

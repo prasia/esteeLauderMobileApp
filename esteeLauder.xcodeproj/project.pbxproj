@@ -18,6 +18,10 @@
 		A46664B82887AD30000187DA /* esteeLauderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46664B72887AD30000187DA /* esteeLauderUITests.swift */; };
 		A46664BA2887AD30000187DA /* esteeLauderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46664B92887AD30000187DA /* esteeLauderUITestsLaunchTests.swift */; };
 		A46664D628887409000187DA /* LoadPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46664D528887409000187DA /* LoadPViewController.swift */; };
+		A466651728889AC1000187DA /* VedetteDescViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A466651628889AC1000187DA /* VedetteDescViewController.swift */; };
+		A46665192888AA42000187DA /* NightSerumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46665182888AA42000187DA /* NightSerumViewController.swift */; };
+		A46665232888D9D0000187DA /* MakeupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46665222888D9CF000187DA /* MakeupViewController.swift */; };
+		A46665252888E3D5000187DA /* CreamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46665242888E3D5000187DA /* CreamViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,10 @@
 		A46664B72887AD30000187DA /* esteeLauderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderUITests.swift; sourceTree = "<group>"; };
 		A46664B92887AD30000187DA /* esteeLauderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A46664D528887409000187DA /* LoadPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadPViewController.swift; sourceTree = "<group>"; };
+		A466651628889AC1000187DA /* VedetteDescViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VedetteDescViewController.swift; sourceTree = "<group>"; };
+		A46665182888AA42000187DA /* NightSerumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightSerumViewController.swift; sourceTree = "<group>"; };
+		A46665222888D9CF000187DA /* MakeupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeupViewController.swift; sourceTree = "<group>"; };
+		A46665242888E3D5000187DA /* CreamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreamViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +115,10 @@
 				A46664952887AD2F000187DA /* SceneDelegate.swift */,
 				A46664972887AD2F000187DA /* ViewController.swift */,
 				A46664D528887409000187DA /* LoadPViewController.swift */,
+				A466651628889AC1000187DA /* VedetteDescViewController.swift */,
+				A46665182888AA42000187DA /* NightSerumViewController.swift */,
+				A46665222888D9CF000187DA /* MakeupViewController.swift */,
+				A46665242888E3D5000187DA /* CreamViewController.swift */,
 				A46664992887AD2F000187DA /* Main.storyboard */,
 				A466649F2887AD30000187DA /* Assets.xcassets */,
 				A46664A12887AD30000187DA /* LaunchScreen.storyboard */,
@@ -266,9 +278,13 @@
 			files = (
 				A46664982887AD2F000187DA /* ViewController.swift in Sources */,
 				A46664942887AD2F000187DA /* AppDelegate.swift in Sources */,
+				A46665252888E3D5000187DA /* CreamViewController.swift in Sources */,
+				A46665192888AA42000187DA /* NightSerumViewController.swift in Sources */,
 				A46664962887AD2F000187DA /* SceneDelegate.swift in Sources */,
+				A466651728889AC1000187DA /* VedetteDescViewController.swift in Sources */,
 				A466649E2887AD2F000187DA /* esteeLauder.xcdatamodeld in Sources */,
 				A46664D628887409000187DA /* LoadPViewController.swift in Sources */,
+				A46665232888D9D0000187DA /* MakeupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
